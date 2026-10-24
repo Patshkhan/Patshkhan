@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">Patshkhan</title>
+  <desc id="desc">Software Developer | SaaS Builder | AI &amp; Automation</desc>
+  <rect width="1200" height="270" rx="20" fill="#0d1117"/>
+  <rect x="42" y="52" width="5" height="163" rx="2.5" fill="#7ee8c5"/>
+  <text x="76" y="87" fill="#7ee8c5" font-family="monospace" font-size="16" letter-spacing="3">BUILDING USEFUL SOFTWARE</text>
+  <text x="72" y="157" fill="#f0f6fc" font-family="sans-serif" font-weight="700" font-size="58">Patshkhan</text>
+  <text x="76" y="205" fill="#a6b3c2" font-family="sans-serif" font-size="23">Software Developer | SaaS Builder | AI &amp; Automation</text>
+  <path d="M1025 78l-30 30 30 30m65-60 30 30-30 30m-20-78-25 96" fill="none" stroke="#233d3b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
