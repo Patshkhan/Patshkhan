@@ -4,7 +4,7 @@
 
 I'm **Patshkhan**, a software developer building web products and practical tools. My current work spans SaaS, full-stack applications, AI integrations, and a Linux-based development workflow.
 
-I'm interested in IT and AI hackathons where a working prototype, clear product thinking, and a useful outcome matter.
+I'm interested in IT where a working prototype, clear product thinking, and a useful outcome matter.
 
 **Focus:** Full-stack Web Development · AI & Automation · SaaS Products · Linux & DevOps · PostgreSQL & Backend · Docker & Deployment
 
